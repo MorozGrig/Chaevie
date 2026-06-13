@@ -6,12 +6,12 @@
     <string name="previous">Previous</string>
     <string name="tip_calculator_title">Калькулятор чаевых</string>
     <string name="bill_amount_hint">Сумма счёта</string>
-    <string name="tip_percent_hint">Процент чаевых (5–30, по умолчанию 15)</string>
-    <string name="people_count_hint">Количество человек (1–20, по умолчанию 1)</string>
+    <string name="tip_percent_hint">Процент чаевых (5–30)</string>
+    <string name="people_count_hint">Количество человек (1–20)</string>
     <string name="rounding_title">Округление чаевых</string>
-    <string name="rounding_floor">Вниз (floor)</string>
-    <string name="rounding_ceil">Вверх (ceil)</string>
-    <string name="rounding_round">До ближайшего целого (round)</string>
+    <string name="rounding_floor">Вниз</string>
+    <string name="rounding_ceil">Вверх</string>
+    <string name="rounding_round">До ближайшего целого</string>
     <string name="calculate">Рассчитать</string>
     <string name="tip_amount_result">Чаевые: %1$s</string>
     <string name="total_amount_result">Итого: %1$s</string>
